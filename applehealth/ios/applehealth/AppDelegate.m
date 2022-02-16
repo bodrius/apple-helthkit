@@ -68,12 +68,6 @@ static void InitializeFlipper(UIApplication *application) {
 }
 
 
-// - (void)enableBackgroundDeliveryForType:(HKQuantityType *)type 
-//                               {
-//                                 frequency:(HKUpdateFrequency)frequency 
-//                          withCompletion:(void (^)(BOOL success, NSError *error))completion;
-//                               }
-
 @end
 
 
